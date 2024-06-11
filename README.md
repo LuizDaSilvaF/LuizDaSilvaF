@@ -4,10 +4,6 @@
   Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Com experiência em diversas tecnologias e frameworks, meu objetivo é criar experiências digitais excepcionais para os usuários. Tenho um forte compromisso com a qualidade do código e a usabilidade, sempre buscando as melhores práticas e soluções mais eficientes para cada projeto.
 </p>
 
-<p>
-  Atualmente, estou procurando novas oportunidades para aplicar minhas habilidades e conhecimentos em projetos desafiadores e inovadores. Estou interessado em colaborar com equipes que valorizam a excelência técnica e a inovação, e que estão empenhadas em criar soluções que façam a diferença.
-</p>
-
 ![LuizDaSilvaF GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizDaSilvaF&show_icons=true&theme=dracula)
 
 ## Redes Sociais
